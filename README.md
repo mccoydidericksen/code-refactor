@@ -20,7 +20,7 @@ Web accessibility is an increasingly important consideration for businesses. It 
 
 ## Code Refactor Example
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+The below HTML code does not include any semantic elements and is poorly constructed.
 
 
 ```html
@@ -77,7 +77,7 @@ Converting the above non-semantic div with the class of 'content' to a semantic 
 
 ```
 
-This change allowed us to delete unnecessary html class elements and their associated css selectors: 
+This change allowed us to delete unnecessary html class elements and their associated css selectors.
 
 ```css
 .search-engine-optimization {
